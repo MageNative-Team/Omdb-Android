@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">OMDb Movie Search</string>
+    <string name="internet_connection_message">Please check your internet connection</string>
+    <string name="moviez">OMDb Movie Search</string>
+    <string name="watchMuchEasier">Watch much easier</string>
+    <string name="searchMovies">Search movies...</string>
+    <string name="waitingToBeFilled">Waiting to be filled...</string>
+    <string name="tryAgainLater">Try again later...</string>
+    <string name="enterSomethingToSearch">Enter something first</string>
+    <string name="internetIssue">Intenet Connectivity Issue.</string>
+    <string name="somethingWentWrong">Sorry,Something went wrong.</string>
+    <string name="sorrySearchMovieNotFound">Sorry, searched movie not found</string>
+    <string name="apptitle">OMDB <br/> Search Engine</string>
+    <string name="pleaseEnterValidName">Please enter a valid movie</string>
+</resources>
